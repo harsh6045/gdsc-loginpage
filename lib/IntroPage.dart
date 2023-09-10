@@ -12,7 +12,7 @@ class IntroPage extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-          title: Text("Signup Page"),
+          title: Text("Welcome Page"),
           automaticallyImplyLeading: false, // Remove the back arrow
         ),
         body: Center(
